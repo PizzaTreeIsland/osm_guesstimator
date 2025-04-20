@@ -5,7 +5,7 @@ osm_guesstimator uses tag combinations to figure out a best guess for missing va
 # installation
 
 ```
-pip install osm_guesstimator 
+pip install osm-guesstimator 
 ```
 
 Requires Python 3.6 or higher. 
