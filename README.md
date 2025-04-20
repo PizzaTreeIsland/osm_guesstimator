@@ -47,7 +47,7 @@ You can call it like this:
 ```
 import osm_guesstimator
 
-estimated_width = estimatewaywidth(highway)
+estimated_width = osm_guesstimator.estimatewaywidth(highway)
 
 print(estimated_width)
 
