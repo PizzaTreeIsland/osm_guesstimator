@@ -1,0 +1,28 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.5 1bd436f1",
+  "osm3s": {
+    "timestamp_osm_base": "2025-04-19T16:57:00Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "way",
+      "id": 656244701,
+      "tags": {
+        "access": "no",
+        "bus": "designated",
+        "covered": "yes",
+        "electrified": "no",
+        "gauge": "600",
+        "highway": "bus_guideway",
+        "layer": "-2",
+        "level": "-2",
+        "source": "approx, per textual descriptions",
+        "source:exit": "https://mobile.twitter.com/elonmusk/status/1063639781899300864/video/1",
+        "tunnel": "yes",
+        "width": "3.8 m"
+      }
+    }
+  ]
+}

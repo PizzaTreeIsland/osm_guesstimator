@@ -1,0 +1,25 @@
+[build-system]
+requires = ["hatchling >= 1.26"]
+build-backend = "hatchling.build"
+
+[project]
+name = "osm_guesstimator"
+version = "0.1"
+authors = [
+  { name="PizzaTreeIsland", email="pizzatreeisland@protonmail.com" },
+]
+description = "Guesstimate properties like street width in incomplete osm data"
+readme = "README.md"
+requires-python = ">=3.6"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+license = "MIT"
+license-files = ["LICEN[CS]E*"]
+
+keywords = ["osm", "openstreetmap", "geojson", "width", "height", "estimate", "incomplete data"]
+
+[project.urls]
+Homepage = "https://github.com/PizzaTreeIsland/osm_guesstimator"
+Issues = "https://github.com/PizzaTreeIsland/osm_guesstimator/issues"

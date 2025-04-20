@@ -1,0 +1,6574 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.5 1bd436f1",
+  "osm3s": {
+    "timestamp_osm_base": "2025-04-19T16:57:00Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "way",
+      "id": 7027683,
+      "tags": {
+        "highway": "busway",
+        "lanes": "2",
+        "maxspeed": "50",
+        "width": "5",
+        "zone:traffic": "NL:urban"
+      }
+    },
+    {
+      "type": "way",
+      "id": 7027870,
+      "tags": {
+        "highway": "busway",
+        "lanes": "2",
+        "maxspeed": "50",
+        "width": "5",
+        "zone:traffic": "NL:urban"
+      }
+    },
+    {
+      "type": "way",
+      "id": 7048889,
+      "tags": {
+        "highway": "busway",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Kromwijkdreef",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "surface": "asphalt",
+        "width": "6"
+      }
+    },
+    {
+      "type": "way",
+      "id": 7048968,
+      "tags": {
+        "highway": "busway",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Kromwijkdreef",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "5.5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 7048982,
+      "tags": {
+        "highway": "busway",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Kromwijkdreef",
+        "oneway": "yes",
+        "ref": "S113",
+        "surface": "asphalt",
+        "width": "4"
+      }
+    },
+    {
+      "type": "way",
+      "id": 7221482,
+      "tags": {
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "busway",
+        "mofa": "yes",
+        "moped": "yes",
+        "name": "Wervenschotsebaan",
+        "surface": "asphalt",
+        "width": "4"
+      }
+    },
+    {
+      "type": "way",
+      "id": 7402323,
+      "tags": {
+        "emergency": "yes",
+        "highway": "busway",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Kruisweg",
+        "oneway": "yes",
+        "surface": "paving_stones",
+        "traffic_sign": "NL:C1",
+        "width": "4",
+        "zone:maxspeed": "NL:30",
+        "zone:traffic": "NL:urban"
+      }
+    },
+    {
+      "type": "way",
+      "id": 7402645,
+      "tags": {
+        "emergency": "yes",
+        "highway": "busway",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Kruisweg",
+        "oneway": "yes",
+        "surface": "paving_stones",
+        "traffic_sign": "NL:C1",
+        "width": "4",
+        "zone:maxspeed": "NL:30",
+        "zone:traffic": "NL:urban"
+      }
+    },
+    {
+      "type": "way",
+      "id": 7510535,
+      "tags": {
+        "highway": "busway",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Riedermorgen",
+        "oneway": "no",
+        "source:maxspeed": "NL:zone30",
+        "source:width": "ARCore",
+        "surface": "asphalt",
+        "surface:colour": "grey",
+        "width": "3.2"
+      }
+    },
+    {
+      "type": "way",
+      "id": 23218757,
+      "tags": {
+        "bridge": "yes",
+        "bridge:name": "Hallesche-Tor-Br\u00fccke",
+        "bus": "yes",
+        "covered": "no",
+        "cycleway:both": "no",
+        "highway": "busway",
+        "lane_markings": "no",
+        "layer": "1",
+        "lit": "yes",
+        "noname": "yes",
+        "oneway": "yes",
+        "parking:both": "no",
+        "smoothness": "excellent",
+        "surface": "concrete",
+        "traffic_sign": "DE:250",
+        "vehicle": "no",
+        "width": "17"
+      }
+    },
+    {
+      "type": "way",
+      "id": 26204211,
+      "tags": {
+        "highway": "busway",
+        "lane_markings": "no",
+        "noname": "yes",
+        "oneway": "no",
+        "surface": "asphalt",
+        "width": "7"
+      }
+    },
+    {
+      "type": "way",
+      "id": 26204212,
+      "tags": {
+        "highway": "busway",
+        "name": "Lavesallee",
+        "name:etymology:wikidata": "Q91343",
+        "oneway": "no",
+        "width": "7",
+        "wikidata": "Q100272857"
+      }
+    },
+    {
+      "type": "way",
+      "id": 26253154,
+      "tags": {
+        "access": "no",
+        "bus": "yes",
+        "covered": "no",
+        "cycleway:both": "no",
+        "highway": "busway",
+        "lit": "yes",
+        "name": "Hallesche-Tor-Br\u00fccke",
+        "oneway": "yes",
+        "parking:both": "no",
+        "surface": "concrete",
+        "traffic_sign": "DE:250",
+        "vehicle": "no",
+        "width": "34"
+      }
+    },
+    {
+      "type": "way",
+      "id": 28215485,
+      "tags": {
+        "access": "no",
+        "bus": "designated",
+        "highway": "busway",
+        "lanes": "1",
+        "motor_vehicle": "no",
+        "name": "Jalan Galunggung",
+        "oneway": "yes",
+        "operator": "Transjakarta",
+        "psv": "yes",
+        "smoothness": "good",
+        "source": "HOT_InAWARESurvey_2017",
+        "surface": "concrete",
+        "width": "4"
+      }
+    },
+    {
+      "type": "way",
+      "id": 29213184,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 30686666,
+      "tags": {
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "busway",
+        "mofa": "yes",
+        "moped": "yes",
+        "name": "Wervenschotsebaan",
+        "surface": "asphalt",
+        "width": "4"
+      }
+    },
+    {
+      "type": "way",
+      "id": 31584849,
+      "tags": {
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "busway",
+        "horse": "no",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:both_ways": "1",
+        "lanes:forward": "1",
+        "lanes:psv:backward": "1",
+        "lanes:psv:forward": "2",
+        "maxspeed": "30",
+        "motor_vehicle": "no",
+        "name": "Place du G\u00e9n\u00e9ral de Gaulle",
+        "oneway": "no",
+        "psv": "yes",
+        "surface": "asphalt",
+        "width": "9"
+      }
+    },
+    {
+      "type": "way",
+      "id": 33527600,
+      "tags": {
+        "highway": "busway",
+        "lane_markings": "no",
+        "maxheight:signed": "no",
+        "maxspeed": "30",
+        "name": "Fortlaan",
+        "oneway": "no",
+        "surface": "asphalt",
+        "width": "4"
+      }
+    },
+    {
+      "type": "way",
+      "id": 33527604,
+      "tags": {
+        "highway": "busway",
+        "lane_markings": "no",
+        "maxheight": "3.3",
+        "maxspeed": "30",
+        "name": "Fortlaan",
+        "oneway": "no",
+        "surface": "asphalt",
+        "width": "4"
+      }
+    },
+    {
+      "type": "way",
+      "id": 33527605,
+      "tags": {
+        "highway": "busway",
+        "lane_markings": "no",
+        "maxspeed": "30",
+        "name": "Fortlaan",
+        "oneway": "no",
+        "surface": "asphalt",
+        "width": "4"
+      }
+    },
+    {
+      "type": "way",
+      "id": 39253806,
+      "tags": {
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "Centrum West",
+        "oneway": "yes",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "width": "10",
+        "zone:traffic": "NL:urban"
+      }
+    },
+    {
+      "type": "way",
+      "id": 40801501,
+      "tags": {
+        "access": "no",
+        "bridge": "viaduct",
+        "bridge:name": "Santolan Flyover",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 42037645,
+      "tags": {
+        "bridge": "yes",
+        "embedded_rails": "tram",
+        "highway": "busway",
+        "lanes": "2",
+        "layer": "1",
+        "level": "1",
+        "lit": "yes",
+        "maxspeed:type": "DE:urban",
+        "maxweight:signed": "no",
+        "name": "Binger Stra\u00dfe",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "width": "7",
+        "width:carriageway": "7",
+        "width:lanes": "3.5|3.5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 45580823,
+      "tags": {
+        "highway": "busway",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Ouverturebaan",
+        "surface": "asphalt",
+        "width": "3"
+      }
+    },
+    {
+      "type": "way",
+      "id": 46590563,
+      "tags": {
+        "bicycle": "use_sidepath",
+        "description": "Busbaan",
+        "highway": "busway",
+        "lanes": "2",
+        "maxspeed": "30",
+        "width": "5.5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 46590565,
+      "tags": {
+        "bicycle": "use_sidepath",
+        "bridge": "yes",
+        "description": "Busbaan",
+        "highway": "busway",
+        "lanes": "2",
+        "layer": "1",
+        "maxspeed": "30",
+        "width": "5.5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 55347759,
+      "tags": {
+        "highway": "busway",
+        "lanes": "2",
+        "maxspeed": "50",
+        "width": "5.75",
+        "zone:traffic": "NL:urban"
+      }
+    },
+    {
+      "type": "way",
+      "id": 69221141,
+      "tags": {
+        "highway": "busway",
+        "lane_markings": "no",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Centrum West",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "width": "11",
+        "zone:traffic": "NL:urban"
+      }
+    },
+    {
+      "type": "way",
+      "id": 77951018,
+      "tags": {
+        "highway": "busway",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Carolina MacGillavrylaan",
+        "taxi": "yes",
+        "width": "5.5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 89819622,
+      "tags": {
+        "description": "Busbaan",
+        "highway": "busway",
+        "lanes": "2",
+        "maxspeed": "30",
+        "surface": "asphalt",
+        "width": "5.5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 95927110,
+      "tags": {
+        "access": "no",
+        "bus": "yes",
+        "covered": "no",
+        "cycleway:both": "no",
+        "highway": "busway",
+        "lit": "yes",
+        "name": "Hallesche-Tor-Br\u00fccke",
+        "oneway": "yes",
+        "parking:both": "no",
+        "smoothness": "excellent",
+        "surface": "concrete",
+        "traffic_sign": "DE:250",
+        "vehicle": "no",
+        "width": "34"
+      }
+    },
+    {
+      "type": "way",
+      "id": 97328681,
+      "tags": {
+        "highway": "busway",
+        "oneway": "yes",
+        "width": "4"
+      }
+    },
+    {
+      "type": "way",
+      "id": 98696028,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 98696029,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 101105089,
+      "tags": {
+        "highway": "busway",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Ouverturebaan",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "3"
+      }
+    },
+    {
+      "type": "way",
+      "id": 107748191,
+      "tags": {
+        "bicycle": "yes",
+        "covered": "no",
+        "foot": "yes",
+        "highway": "busway",
+        "oneway": "yes",
+        "psv": "yes",
+        "surface": "asphalt",
+        "vehicle": "no",
+        "width": "4"
+      }
+    },
+    {
+      "type": "way",
+      "id": 109338301,
+      "tags": {
+        "access": "no",
+        "bus": "yes",
+        "highway": "busway",
+        "lanes": "2",
+        "maxspeed": "40",
+        "motor_vehicle": "no",
+        "name": "Ulvenveien",
+        "oneway": "no",
+        "operator": "Oslo kommune",
+        "overtaking": "caution",
+        "surface": "asphalt",
+        "unsigned_ref": "17988",
+        "width": "8"
+      }
+    },
+    {
+      "type": "way",
+      "id": 111483954,
+      "tags": {
+        "highway": "busway",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Ouverturebaan",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "3"
+      }
+    },
+    {
+      "type": "way",
+      "id": 129470346,
+      "tags": {
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Emmasingel",
+        "oneway": "yes",
+        "surface": "concrete",
+        "width": "3.2",
+        "zone:traffic": "NL:urban"
+      }
+    },
+    {
+      "type": "way",
+      "id": 129475798,
+      "tags": {
+        "highway": "busway",
+        "lane_markings": "no",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Centrum West",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "width": "5",
+        "zone:traffic": "NL:urban"
+      }
+    },
+    {
+      "type": "way",
+      "id": 136089854,
+      "tags": {
+        "highway": "busway",
+        "lane_markings": "no",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Centrum West",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "width": "4.5",
+        "zone:traffic": "NL:urban"
+      }
+    },
+    {
+      "type": "way",
+      "id": 136089855,
+      "tags": {
+        "highway": "busway",
+        "lane_markings": "no",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Centrum West",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "width": "4.5",
+        "zone:traffic": "NL:urban"
+      }
+    },
+    {
+      "type": "way",
+      "id": 136089856,
+      "tags": {
+        "highway": "busway",
+        "lane_markings": "no",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Centrum West",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "width": "4.5",
+        "zone:traffic": "NL:urban"
+      }
+    },
+    {
+      "type": "way",
+      "id": 136089858,
+      "tags": {
+        "highway": "busway",
+        "lane_markings": "no",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Centrum West",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "width": "4.5",
+        "zone:traffic": "NL:urban"
+      }
+    },
+    {
+      "type": "way",
+      "id": 136089859,
+      "tags": {
+        "highway": "busway",
+        "lane_markings": "no",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Centrum West",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "width": "4.5",
+        "zone:traffic": "NL:urban"
+      }
+    },
+    {
+      "type": "way",
+      "id": 136089860,
+      "tags": {
+        "highway": "busway",
+        "lane_markings": "no",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Centrum West",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "width": "4.5",
+        "zone:traffic": "NL:urban"
+      }
+    },
+    {
+      "type": "way",
+      "id": 136089861,
+      "tags": {
+        "highway": "busway",
+        "lane_markings": "no",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Centrum West",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "width": "4.5",
+        "zone:traffic": "NL:urban"
+      }
+    },
+    {
+      "type": "way",
+      "id": 136089862,
+      "tags": {
+        "highway": "busway",
+        "lane_markings": "no",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Centrum West",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "width": "4.5",
+        "zone:traffic": "NL:urban"
+      }
+    },
+    {
+      "type": "way",
+      "id": 136089865,
+      "tags": {
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Centrum West",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "width": "4.5",
+        "zone:traffic": "NL:urban"
+      }
+    },
+    {
+      "type": "way",
+      "id": 140209728,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "layer": "-1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tunnel": "yes",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 143722026,
+      "tags": {
+        "access": "no",
+        "emergency": "designated",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "2",
+        "maxspeed": "30",
+        "oneway": "yes",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "width": "6"
+      }
+    },
+    {
+      "type": "way",
+      "id": 179307696,
+      "tags": {
+        "highway": "busway",
+        "lanes": "3",
+        "lanes:backward": "2",
+        "lanes:forward": "1",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Place du G\u00e9n\u00e9ral de Gaulle",
+        "oneway": "no",
+        "surface": "asphalt",
+        "width": "13",
+        "zone:maxspeed": "FR:30"
+      }
+    },
+    {
+      "type": "way",
+      "id": 181162641,
+      "tags": {
+        "bicycle": "yes",
+        "covered": "no",
+        "direction": "backward",
+        "foot": "yes",
+        "highway": "busway",
+        "horse": "no",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:both_ways": "1",
+        "lanes:forward": "1",
+        "lanes:psv:backward": "2",
+        "lanes:psv:forward": "1",
+        "lit": "yes",
+        "maxspeed": "30",
+        "motor_vehicle": "no",
+        "name": "Place du G\u00e9n\u00e9ral de Gaulle",
+        "oneway": "no",
+        "psv": "yes",
+        "surface": "asphalt",
+        "width": "9",
+        "zone:maxspeed": "FR:30"
+      }
+    },
+    {
+      "type": "way",
+      "id": 190432696,
+      "tags": {
+        "bicycle": "yes",
+        "bus": "designated",
+        "cycleway": "no",
+        "highway": "busway",
+        "lanes": "1",
+        "motor_vehicle": "no",
+        "name": "Boulevard Ayrault",
+        "name:etymology:wikidata": "Q3425778",
+        "oneway": "yes",
+        "sidewalk": "separate",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "width": "3"
+      }
+    },
+    {
+      "type": "way",
+      "id": 217572550,
+      "tags": {
+        "cycleway:both": "separate",
+        "destination": "Gorbitz",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed:type": "DE:urban",
+        "motor_vehicle": "no",
+        "name": "Kesselsdorfer Stra\u00dfe",
+        "old_ref": "K 6275",
+        "oneway": "yes",
+        "parking:both": "no",
+        "psv": "designated",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "width": "6",
+        "wikidata": "Q1739813"
+      }
+    },
+    {
+      "type": "way",
+      "id": 255194195,
+      "tags": {
+        "highway": "busway",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "width": "4",
+        "zone:traffic": "NL:urban"
+      }
+    },
+    {
+      "type": "way",
+      "id": 286101628,
+      "tags": {
+        "access": "no",
+        "bus": "yes",
+        "highway": "busway",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "source:width": "estimated",
+        "surface": "asphalt",
+        "taxi": "yes",
+        "width": "8"
+      }
+    },
+    {
+      "type": "way",
+      "id": 312215519,
+      "tags": {
+        "highway": "busway",
+        "lanes": "2",
+        "maxspeed": "50",
+        "surface": "asphalt",
+        "width": "5",
+        "zone:traffic": "NL:urban"
+      }
+    },
+    {
+      "type": "way",
+      "id": 315269000,
+      "tags": {
+        "access": "no",
+        "bus": "designated",
+        "bus:lanes:backward": "designated",
+        "bus:lanes:forward": "designated",
+        "change:lanes:backward": "no",
+        "change:lanes:forward": "no",
+        "highway": "busway",
+        "lanes": "1",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "lit": "yes",
+        "name": "Carrer de Tarragona",
+        "name:ca": "Carrer de Tarragona",
+        "oneway": "yes",
+        "psv": "designated",
+        "psv:lanes": "designated|designated",
+        "surface": "asphalt",
+        "tourist_bus": "yes",
+        "width": "6"
+      }
+    },
+    {
+      "type": "way",
+      "id": 325288071,
+      "tags": {
+        "highway": "busway",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Kromwijkdreef",
+        "oneway": "yes",
+        "sidewalk": "right",
+        "width": "3"
+      }
+    },
+    {
+      "type": "way",
+      "id": 325288072,
+      "tags": {
+        "highway": "busway",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Kromwijkdreef",
+        "oneway": "yes",
+        "sidewalk": "left",
+        "surface": "asphalt",
+        "width": "4"
+      }
+    },
+    {
+      "type": "way",
+      "id": 325288081,
+      "tags": {
+        "highway": "busway",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Kromwijkdreef",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "width": "2.5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 325288082,
+      "tags": {
+        "highway": "busway",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Kromwijkdreef",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "width": "2.5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 325288084,
+      "tags": {
+        "highway": "busway",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Kromwijkdreef",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "width": "2.5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 325288085,
+      "tags": {
+        "highway": "busway",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Kromwijkdreef",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "width": "2.5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 362292396,
+      "tags": {
+        "highway": "busway",
+        "oneway": "yes",
+        "surface": "concrete",
+        "width": "3"
+      }
+    },
+    {
+      "type": "way",
+      "id": 362292401,
+      "tags": {
+        "highway": "busway",
+        "oneway": "yes",
+        "surface": "concrete",
+        "width": "3"
+      }
+    },
+    {
+      "type": "way",
+      "id": 382264995,
+      "tags": {
+        "bridge": "yes",
+        "bridge:name": "Hallesche-Tor-Br\u00fccke",
+        "bus": "yes",
+        "covered": "no",
+        "cycleway:both": "no",
+        "highway": "busway",
+        "lane_markings": "no",
+        "layer": "1",
+        "lit": "yes",
+        "noname": "yes",
+        "oneway": "yes",
+        "parking:both": "no",
+        "sidewalk": "right",
+        "sidewalk:right:surface": "sett",
+        "smoothness": "excellent",
+        "surface": "concrete",
+        "traffic_sign": "DE:250",
+        "vehicle": "no",
+        "width": "17"
+      }
+    },
+    {
+      "type": "way",
+      "id": 388846466,
+      "tags": {
+        "highway": "busway",
+        "lane_markings": "no",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Centrum West",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "width": "9",
+        "zone:traffic": "NL:urban"
+      }
+    },
+    {
+      "type": "way",
+      "id": 403111261,
+      "tags": {
+        "bicycle": "use_sidepath",
+        "cycleway:both": "separate",
+        "foot": "use_sidepath",
+        "highway": "busway",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed:type": "DE:urban",
+        "motor_vehicle": "no",
+        "name": "Kesselsdorfer Stra\u00dfe",
+        "old_ref": "K 6275",
+        "parking:lane:both": "no",
+        "psv": "designated",
+        "sidewalk": "separate",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "width": "7",
+        "wikidata": "Q1739813"
+      }
+    },
+    {
+      "type": "way",
+      "id": 422954811,
+      "tags": {
+        "highway": "busway",
+        "incline": "down",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Julianaplein",
+        "taxi": "no",
+        "width": "7"
+      }
+    },
+    {
+      "type": "way",
+      "id": 424489536,
+      "tags": {
+        "highway": "busway",
+        "lanes": "1",
+        "oneway": "yes",
+        "width": "3.3"
+      }
+    },
+    {
+      "type": "way",
+      "id": 424514901,
+      "tags": {
+        "highway": "busway",
+        "lane_markings": "no",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Centrum West",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "width": "9",
+        "zone:traffic": "NL:urban"
+      }
+    },
+    {
+      "type": "way",
+      "id": 424748071,
+      "tags": {
+        "bus": "yes",
+        "highway": "busway",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Voorhofdreef",
+        "name:etymology:wikidata": "Q2532893",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "3.4",
+        "zone:traffic": "NL:urban"
+      }
+    },
+    {
+      "type": "way",
+      "id": 428995837,
+      "tags": {
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "busway",
+        "lit": "yes",
+        "mofa": "yes",
+        "moped": "yes",
+        "name": "Wervenschotsebaan",
+        "surface": "asphalt",
+        "width": "4"
+      }
+    },
+    {
+      "type": "way",
+      "id": 428995838,
+      "tags": {
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "busway",
+        "lit": "yes",
+        "mofa": "yes",
+        "moped": "yes",
+        "name": "Wervenschotsebaan",
+        "surface": "asphalt",
+        "width": "4"
+      }
+    },
+    {
+      "type": "way",
+      "id": 457651234,
+      "tags": {
+        "highway": "busway",
+        "lane_markings": "no",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Centrum West",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "width": "9",
+        "zone:traffic": "NL:urban"
+      }
+    },
+    {
+      "type": "way",
+      "id": 457651235,
+      "tags": {
+        "highway": "busway",
+        "lane_markings": "no",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Centrum West",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "width": "14",
+        "zone:traffic": "NL:urban"
+      }
+    },
+    {
+      "type": "way",
+      "id": 457651236,
+      "tags": {
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Centrum West",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "width": "4.5",
+        "zone:traffic": "NL:urban"
+      }
+    },
+    {
+      "type": "way",
+      "id": 457651237,
+      "tags": {
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Centrum West",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "width": "4.5",
+        "zone:traffic": "NL:urban"
+      }
+    },
+    {
+      "type": "way",
+      "id": 457651241,
+      "tags": {
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Centrum West",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "width": "4.5",
+        "zone:traffic": "NL:urban"
+      }
+    },
+    {
+      "type": "way",
+      "id": 457651242,
+      "tags": {
+        "highway": "busway",
+        "lane_markings": "no",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Centrum West",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "width": "4.5",
+        "zone:traffic": "NL:urban"
+      }
+    },
+    {
+      "type": "way",
+      "id": 457651245,
+      "tags": {
+        "highway": "busway",
+        "lane_markings": "no",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Centrum West",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "width": "9",
+        "zone:traffic": "NL:urban"
+      }
+    },
+    {
+      "type": "way",
+      "id": 457651249,
+      "tags": {
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Centrum West",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "width": "4.5",
+        "zone:traffic": "NL:urban"
+      }
+    },
+    {
+      "type": "way",
+      "id": 465938466,
+      "tags": {
+        "highway": "busway",
+        "lane_markings": "no",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Schouwstede",
+        "oneway": "yes",
+        "psv": "yes",
+        "surface": "paving_stones",
+        "width": "3",
+        "zone:traffic": "NL:urban"
+      }
+    },
+    {
+      "type": "way",
+      "id": 480018963,
+      "tags": {
+        "bus": "designated",
+        "colour": "red",
+        "description": "TEOR 1",
+        "highway": "busway",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "3"
+      }
+    },
+    {
+      "type": "way",
+      "id": 480817376,
+      "tags": {
+        "highway": "busway",
+        "lanes": "2",
+        "maxspeed": "50",
+        "surface": "asphalt",
+        "width": "5",
+        "zone:traffic": "NL:urban"
+      }
+    },
+    {
+      "type": "way",
+      "id": 516189770,
+      "tags": {
+        "highway": "busway",
+        "junction": "intersection",
+        "lane_markings": "no",
+        "maxspeed": "30",
+        "name": "Aweg",
+        "name:etymology:wikidata": "Q2238502",
+        "oneway": "yes",
+        "surface": "paving_stones",
+        "tourist_bus": "designated",
+        "width": "4",
+        "zone:maxspeed": "NL:30",
+        "zone:traffic": "NL:urban"
+      }
+    },
+    {
+      "type": "way",
+      "id": 527782083,
+      "tags": {
+        "bridge": "yes",
+        "bridge:name": "Hallesche-Tor-Br\u00fccke",
+        "bus": "yes",
+        "covered": "no",
+        "cycleway:both": "no",
+        "highway": "busway",
+        "lane_markings": "no",
+        "layer": "1",
+        "lit": "yes",
+        "noname": "yes",
+        "oneway": "yes",
+        "parking:both": "no",
+        "smoothness": "excellent",
+        "surface": "concrete",
+        "traffic_sign": "DE:250",
+        "vehicle": "no",
+        "width": "17"
+      }
+    },
+    {
+      "type": "way",
+      "id": 529279473,
+      "tags": {
+        "embedded_rails": "tram",
+        "highway": "busway",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Vrijenbanselaan",
+        "name:etymology:wikidata": "Q2265180",
+        "width": "3.4",
+        "zone:traffic": "NL:urban"
+      }
+    },
+    {
+      "type": "way",
+      "id": 533384515,
+      "tags": {
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Centrum West",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "width": "4.5",
+        "zone:traffic": "NL:urban"
+      }
+    },
+    {
+      "type": "way",
+      "id": 533390283,
+      "tags": {
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Centrum West",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "width": "4.5",
+        "zone:traffic": "NL:urban"
+      }
+    },
+    {
+      "type": "way",
+      "id": 548526852,
+      "tags": {
+        "highway": "busway",
+        "lanes": "2",
+        "maxspeed": "50",
+        "surface": "asphalt",
+        "width": "5",
+        "zone:traffic": "NL:urban"
+      }
+    },
+    {
+      "type": "way",
+      "id": 549425705,
+      "tags": {
+        "highway": "busway",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Kromwijkdreef",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "width": "2.5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 561793062,
+      "tags": {
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed:type": "FR:urban",
+        "oneway": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt",
+        "width": "2.2"
+      }
+    },
+    {
+      "type": "way",
+      "id": 561793066,
+      "tags": {
+        "highway": "busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "3"
+      }
+    },
+    {
+      "type": "way",
+      "id": 570087095,
+      "tags": {
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "President Kennedylaan",
+        "oneway": "yes",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "taxi": "yes",
+        "width": "4",
+        "zone:traffic": "NL:urban"
+      }
+    },
+    {
+      "type": "way",
+      "id": 573731262,
+      "tags": {
+        "access": "no",
+        "bus": "designated",
+        "highway": "busway",
+        "lanes": "1",
+        "maxheight": "3.40",
+        "maxlength": "18",
+        "maxspeed": "50",
+        "name": "Julianaplein",
+        "oneway": "yes",
+        "psv": "designated",
+        "smoothness": "good",
+        "source:maxspeed": "NL:urban",
+        "surface": "concrete",
+        "width": "3.5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 573731263,
+      "tags": {
+        "access": "no",
+        "bus": "designated",
+        "highway": "busway",
+        "lanes": "1",
+        "maxheight": "3.40",
+        "maxlength": "18",
+        "maxspeed": "50",
+        "name": "Julianaplein",
+        "oneway": "yes",
+        "psv": "designated",
+        "smoothness": "good",
+        "source:maxspeed": "NL:urban",
+        "surface": "concrete",
+        "width": "3.5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 573731264,
+      "tags": {
+        "access": "no",
+        "bus": "designated",
+        "highway": "busway",
+        "lanes": "1",
+        "maxheight": "3.40",
+        "maxlength": "18",
+        "maxspeed": "50",
+        "name": "Julianaplein",
+        "oneway": "yes",
+        "psv": "designated",
+        "smoothness": "good",
+        "source:maxspeed": "NL:urban",
+        "surface": "concrete",
+        "width": "3.5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 573731265,
+      "tags": {
+        "access": "no",
+        "bus": "designated",
+        "highway": "busway",
+        "lanes": "1",
+        "maxheight": "3.40",
+        "maxlength": "18",
+        "maxspeed": "50",
+        "name": "Julianaplein",
+        "oneway": "yes",
+        "psv": "designated",
+        "smoothness": "good",
+        "source:maxspeed": "NL:urban",
+        "surface": "concrete",
+        "width": "3.5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 573731266,
+      "tags": {
+        "access": "no",
+        "bus": "designated",
+        "highway": "busway",
+        "lanes": "1",
+        "maxheight": "3.40",
+        "maxlength": "18",
+        "maxspeed": "50",
+        "name": "Julianaplein",
+        "oneway": "yes",
+        "psv": "designated",
+        "smoothness": "good",
+        "source:maxspeed": "NL:urban",
+        "surface": "concrete",
+        "width": "3.5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 573731267,
+      "tags": {
+        "access": "no",
+        "bus": "designated",
+        "highway": "busway",
+        "lanes": "1",
+        "maxheight": "3.40",
+        "maxlength": "18",
+        "maxspeed": "50",
+        "name": "Julianaplein",
+        "oneway": "yes",
+        "psv": "designated",
+        "smoothness": "good",
+        "source:maxspeed": "NL:urban",
+        "surface": "concrete",
+        "width": "3.5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 573731281,
+      "tags": {
+        "access": "no",
+        "bus": "designated",
+        "highway": "busway",
+        "lanes": "1",
+        "maxheight": "3.40",
+        "maxlength": "18",
+        "maxspeed": "50",
+        "name": "Julianaplein",
+        "oneway": "yes",
+        "psv": "designated",
+        "smoothness": "good",
+        "source:maxspeed": "NL:urban",
+        "surface": "concrete",
+        "taxi": "yes",
+        "width": "5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 573731282,
+      "tags": {
+        "access": "no",
+        "bus": "designated",
+        "highway": "busway",
+        "lanes": "1",
+        "maxheight": "3.40",
+        "maxlength": "18",
+        "maxspeed": "50",
+        "name": "Julianaplein",
+        "oneway": "yes",
+        "psv": "designated",
+        "smoothness": "good",
+        "source:maxspeed": "NL:urban",
+        "surface": "concrete",
+        "width": "5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 573731283,
+      "tags": {
+        "access": "no",
+        "bus": "designated",
+        "highway": "busway",
+        "lanes": "1",
+        "maxheight": "3.40",
+        "maxlength": "18",
+        "maxspeed": "50",
+        "name": "Julianaplein",
+        "oneway": "yes",
+        "psv": "designated",
+        "smoothness": "good",
+        "source:maxspeed": "NL:urban",
+        "surface": "concrete",
+        "width": "3.5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 573731284,
+      "tags": {
+        "access": "no",
+        "bus": "designated",
+        "highway": "busway",
+        "lanes": "1",
+        "maxheight": "3.40",
+        "maxlength": "18",
+        "maxspeed": "50",
+        "name": "Julianaplein",
+        "oneway": "yes",
+        "psv": "designated",
+        "smoothness": "good",
+        "source:maxspeed": "NL:urban",
+        "surface": "concrete",
+        "width": "3.5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 573731285,
+      "tags": {
+        "access": "no",
+        "bus": "designated",
+        "highway": "busway",
+        "lanes": "1",
+        "maxheight": "3.40",
+        "maxlength": "18",
+        "maxspeed": "50",
+        "name": "Julianaplein",
+        "oneway": "yes",
+        "psv": "designated",
+        "smoothness": "good",
+        "source:maxspeed": "NL:urban",
+        "surface": "concrete",
+        "width": "3.5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 573731286,
+      "tags": {
+        "access": "no",
+        "bus": "designated",
+        "highway": "busway",
+        "lanes": "1",
+        "maxheight": "3.40",
+        "maxlength": "18",
+        "maxspeed": "50",
+        "name": "Julianaplein",
+        "oneway": "yes",
+        "psv": "designated",
+        "smoothness": "good",
+        "source:maxspeed": "NL:urban",
+        "surface": "concrete",
+        "width": "3.5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 573731287,
+      "tags": {
+        "access": "no",
+        "bus": "designated",
+        "highway": "busway",
+        "lanes": "1",
+        "maxheight": "3.40",
+        "maxlength": "18",
+        "maxspeed": "50",
+        "name": "Julianaplein",
+        "oneway": "yes",
+        "psv": "designated",
+        "smoothness": "good",
+        "source:maxspeed": "NL:urban",
+        "surface": "concrete",
+        "width": "3.5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 573731288,
+      "tags": {
+        "access": "no",
+        "bus": "designated",
+        "highway": "busway",
+        "lanes": "1",
+        "maxheight": "3.40",
+        "maxlength": "18",
+        "maxspeed": "50",
+        "name": "Julianaplein",
+        "oneway": "yes",
+        "psv": "designated",
+        "smoothness": "good",
+        "source:maxspeed": "NL:urban",
+        "surface": "concrete",
+        "width": "3.5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 577453435,
+      "tags": {
+        "access": "no",
+        "highway": "busway",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "psv": "designated",
+        "width": "2.75"
+      }
+    },
+    {
+      "type": "way",
+      "id": 592016353,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 592016354,
+      "tags": {
+        "access": "no",
+        "bridge": "yes",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "foot": "no",
+        "highway": "busway",
+        "lanes": "1",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 604753317,
+      "tags": {
+        "bridge": "yes",
+        "highway": "busway",
+        "lanes": "1",
+        "layer": "1",
+        "maxspeed": "50",
+        "name": "Johan van Hasseltweg",
+        "oneway": "yes",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "taxi": "no",
+        "width": "3.25"
+      }
+    },
+    {
+      "type": "way",
+      "id": 604753318,
+      "tags": {
+        "highway": "busway",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Johan van Hasseltweg",
+        "oneway": "yes",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "taxi": "no",
+        "width": "3.25"
+      }
+    },
+    {
+      "type": "way",
+      "id": 604753319,
+      "tags": {
+        "bridge": "yes",
+        "foot": "no",
+        "highway": "busway",
+        "lanes": "1",
+        "layer": "1",
+        "maxspeed": "50",
+        "name": "Johan van Hasseltweg",
+        "name:etymology:wikidata": "Q2651698",
+        "oneway": "yes",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "taxi": "no",
+        "width": "2.75"
+      }
+    },
+    {
+      "type": "way",
+      "id": 604753320,
+      "tags": {
+        "bridge": "yes",
+        "foot": "yes",
+        "highway": "busway",
+        "lanes": "2",
+        "layer": "1",
+        "maxspeed": "50",
+        "name": "Johan van Hasseltweg",
+        "oneway": "yes",
+        "sidewalk": "right",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "taxi": "no",
+        "width": "5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 604753321,
+      "tags": {
+        "foot": "yes",
+        "highway": "busway",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Johan van Hasseltweg",
+        "name:etymology:wikidata": "Q2651698",
+        "oneway": "yes",
+        "sidewalk": "right",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "taxi": "no",
+        "width": "5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 604753322,
+      "tags": {
+        "foot": "yes",
+        "highway": "busway",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Johan van Hasseltweg",
+        "name:etymology:wikidata": "Q2651698",
+        "oneway": "yes",
+        "sidewalk": "right",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "taxi": "no",
+        "width": "5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 604753323,
+      "tags": {
+        "bridge": "yes",
+        "foot": "no",
+        "highway": "busway",
+        "lanes": "1",
+        "layer": "1",
+        "maxspeed": "50",
+        "name": "Johan van Hasseltweg",
+        "name:etymology:wikidata": "Q2651698",
+        "oneway": "yes",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "taxi": "no",
+        "width": "5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 604753324,
+      "tags": {
+        "foot": "no",
+        "highway": "busway",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Johan van Hasseltweg",
+        "name:etymology:wikidata": "Q2651698",
+        "oneway": "yes",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "taxi": "no",
+        "width": "5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 604753338,
+      "tags": {
+        "foot": "no",
+        "highway": "busway",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Johan van Hasseltweg",
+        "name:etymology:wikidata": "Q2651698",
+        "oneway": "yes",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "taxi": "no",
+        "width": "4"
+      }
+    },
+    {
+      "type": "way",
+      "id": 604753339,
+      "tags": {
+        "highway": "busway",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "taxi": "no",
+        "width": "5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 608843862,
+      "tags": {
+        "foot": "no",
+        "highway": "busway",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Johan van Hasseltweg",
+        "name:etymology:wikidata": "Q2651698",
+        "oneway": "yes",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "taxi": "no",
+        "width": "2.75"
+      }
+    },
+    {
+      "type": "way",
+      "id": 617798331,
+      "tags": {
+        "highway": "busway",
+        "layer": "1",
+        "oneway": "yes",
+        "width": "12'6\""
+      }
+    },
+    {
+      "type": "way",
+      "id": 618930167,
+      "tags": {
+        "highway": "busway",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Carolina MacGillavrylaan",
+        "surface": "concrete",
+        "taxi": "yes",
+        "width": "5.5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 625592821,
+      "tags": {
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Centrum West",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "width": "9",
+        "zone:traffic": "NL:urban"
+      }
+    },
+    {
+      "type": "way",
+      "id": 625592823,
+      "tags": {
+        "highway": "busway",
+        "lane_markings": "no",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Centrum West",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "width": "9",
+        "zone:traffic": "NL:urban"
+      }
+    },
+    {
+      "type": "way",
+      "id": 625592824,
+      "tags": {
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Centrum West",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "width": "4.5",
+        "zone:traffic": "NL:urban"
+      }
+    },
+    {
+      "type": "way",
+      "id": 625592825,
+      "tags": {
+        "highway": "busway",
+        "lane_markings": "no",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Centrum West",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "width": "9",
+        "zone:traffic": "NL:urban"
+      }
+    },
+    {
+      "type": "way",
+      "id": 625592826,
+      "tags": {
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Centrum West",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "width": "4.5",
+        "zone:traffic": "NL:urban"
+      }
+    },
+    {
+      "type": "way",
+      "id": 628531503,
+      "tags": {
+        "highway": "busway",
+        "layer": "1",
+        "oneway": "no",
+        "width": "12'6\""
+      }
+    },
+    {
+      "type": "way",
+      "id": 638437002,
+      "tags": {
+        "highway": "busway",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "concrete",
+        "width": "4"
+      }
+    },
+    {
+      "type": "way",
+      "id": 638437006,
+      "tags": {
+        "highway": "busway",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "concrete",
+        "width": "4"
+      }
+    },
+    {
+      "type": "way",
+      "id": 644875514,
+      "tags": {
+        "access": "no",
+        "covered": "yes",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 679530377,
+      "tags": {
+        "alt_name": "Via Lombardia",
+        "fixme": "Controllare l valore di width",
+        "foot": "use_sidepath",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "no",
+        "maxspeed": "50",
+        "moped": "destination",
+        "motor_vehicle": "no",
+        "motorcycle": "destination",
+        "name": "Viale Lombardia",
+        "note:name": "La segnaletica non \u00e8 coerente nell'uso di Via o Viale",
+        "oneway": "yes",
+        "parking:both:restriction": "no_parking",
+        "psv": "designated",
+        "surface": "asphalt",
+        "width": "5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 679602060,
+      "tags": {
+        "alt_name": "Voie des Intendants Joba",
+        "highway": "busway",
+        "lane_markings": "no",
+        "name": "Voie des Intendants Joseph et Ernest Joba",
+        "psv": "yes",
+        "ref:FR:FANTOIR": "574633479H",
+        "sidewalk": "both",
+        "surface": "concrete",
+        "width": "5.2"
+      }
+    },
+    {
+      "type": "way",
+      "id": 705233295,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 707889854,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 707889856,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 708135639,
+      "tags": {
+        "embedded_rails": "tram",
+        "highway": "busway",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Julianaplein",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "taxi": "yes",
+        "width": "7.25"
+      }
+    },
+    {
+      "type": "way",
+      "id": 708135642,
+      "tags": {
+        "embedded_rails": "tram",
+        "highway": "busway",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Prins Bernhardplein",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "taxi": "yes",
+        "width": "8",
+        "zone:traffic": "NL:urban"
+      }
+    },
+    {
+      "type": "way",
+      "id": 708135645,
+      "tags": {
+        "embedded_rails": "tram",
+        "highway": "busway",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Meester Treublaan",
+        "official_name": "Mr. Treublaan",
+        "taxi": "yes",
+        "width": "7.5",
+        "zone:traffic": "NL:urban"
+      }
+    },
+    {
+      "type": "way",
+      "id": 708135648,
+      "tags": {
+        "highway": "busway",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Julianaplein",
+        "oneway": "yes",
+        "source:maxspeed": "NL:urban",
+        "taxi": "no",
+        "width": "4.75"
+      }
+    },
+    {
+      "type": "way",
+      "id": 708135651,
+      "tags": {
+        "highway": "busway",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Julianaplein",
+        "oneway": "yes",
+        "source:maxspeed": "NL:urban",
+        "taxi": "no",
+        "width": "4.75"
+      }
+    },
+    {
+      "type": "way",
+      "id": 708628805,
+      "tags": {
+        "embedded_rails": "tram",
+        "highway": "busway",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Europaboulevard",
+        "taxi": "no",
+        "width": "5.25"
+      }
+    },
+    {
+      "type": "way",
+      "id": 708628807,
+      "tags": {
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Europaboulevard",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "taxi": "no",
+        "width": "2.50"
+      }
+    },
+    {
+      "type": "way",
+      "id": 708628808,
+      "tags": {
+        "embedded_rails": "tram",
+        "highway": "busway",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Europaboulevard",
+        "surface": "asphalt",
+        "taxi": "no",
+        "width": "5.25"
+      }
+    },
+    {
+      "type": "way",
+      "id": 708641835,
+      "tags": {
+        "embedded_rails": "tram",
+        "highway": "busway",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Europaplein",
+        "taxi": "yes",
+        "width": "5.25"
+      }
+    },
+    {
+      "type": "way",
+      "id": 708641836,
+      "tags": {
+        "embedded_rails": "tram",
+        "highway": "busway",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Europaplein",
+        "taxi": "yes",
+        "width": "5.25"
+      }
+    },
+    {
+      "type": "way",
+      "id": 708641838,
+      "tags": {
+        "embedded_rails": "tram",
+        "highway": "busway",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Europaplein",
+        "taxi": "yes",
+        "width": "5.25",
+        "zone:traffic": "NL:urban"
+      }
+    },
+    {
+      "type": "way",
+      "id": 746149471,
+      "tags": {
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "busway",
+        "horse": "no",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:both_ways": "1",
+        "lanes:forward": "1",
+        "lanes:psv:backward": "1",
+        "lanes:psv:forward": "2",
+        "maxspeed": "30",
+        "motor_vehicle": "no",
+        "name": "Place du G\u00e9n\u00e9ral de Gaulle",
+        "oneway": "no",
+        "psv": "yes",
+        "surface": "asphalt",
+        "width": "9"
+      }
+    },
+    {
+      "type": "way",
+      "id": 746149473,
+      "tags": {
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "busway",
+        "horse": "no",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:both_ways": "1",
+        "lanes:forward": "1",
+        "lanes:psv:backward": "1",
+        "lanes:psv:forward": "2",
+        "lit": "yes",
+        "maxspeed": "30",
+        "motor_vehicle": "no",
+        "name": "Place du G\u00e9n\u00e9ral de Gaulle",
+        "oneway": "no",
+        "psv": "yes",
+        "surface": "asphalt",
+        "width": "9"
+      }
+    },
+    {
+      "type": "way",
+      "id": 750131145,
+      "tags": {
+        "embedded_rails": "tram",
+        "highway": "busway",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Sarphatistraat",
+        "surface": "asphalt",
+        "taxi": "yes",
+        "width": "4.5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 761027069,
+      "tags": {
+        "bicycle": "no",
+        "cycleway:both": "separate",
+        "foot": "use_sidepath",
+        "highway": "busway",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed:type": "DE:urban",
+        "motor_vehicle": "no",
+        "name": "Kesselsdorfer Stra\u00dfe",
+        "old_ref": "K 6275",
+        "parking:lane:both": "no",
+        "psv": "designated",
+        "sidewalk": "separate",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "width": "7",
+        "wikidata": "Q1739813"
+      }
+    },
+    {
+      "type": "way",
+      "id": 772145648,
+      "tags": {
+        "embedded_rails": "tram",
+        "highway": "busway",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Middenweg",
+        "width": "5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 772145650,
+      "tags": {
+        "embedded_rails": "tram",
+        "highway": "busway",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Middenweg",
+        "surface": "asphalt",
+        "width": "5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 772189569,
+      "tags": {
+        "embedded_rails": "tram",
+        "highway": "busway",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Middenweg",
+        "width": "5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 772189581,
+      "tags": {
+        "embedded_rails": "tram",
+        "highway": "busway",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Middenweg",
+        "width": "5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 772912966,
+      "tags": {
+        "highway": "busway",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Julianaplein",
+        "oneway": "yes",
+        "width": "5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 778368102,
+      "tags": {
+        "embedded_rails": "tram",
+        "highway": "busway",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Muiderstraatweg",
+        "width": "5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 778368103,
+      "tags": {
+        "embedded_rails": "tram",
+        "highway": "busway",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Hartveldseweg",
+        "width": "5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 789796812,
+      "tags": {
+        "bus": "designated",
+        "highway": "busway",
+        "int_name": "Vasilissis Amalias",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed:type": "GR:urban",
+        "name": "\u0392\u03b1\u03c3\u03b9\u03bb\u03af\u03c3\u03c3\u03b7\u03c2 \u0391\u03bc\u03b1\u03bb\u03af\u03b1\u03c2",
+        "name:el": "\u0392\u03b1\u03c3\u03b9\u03bb\u03af\u03c3\u03c3\u03b7\u03c2 \u0391\u03bc\u03b1\u03bb\u03af\u03b1\u03c2",
+        "name:es": "Vasilissis Amalias",
+        "name:prefix": "\u039b\u03b5\u03c9\u03c6\u03cc\u03c1\u03bf\u03c2",
+        "oneway": "yes",
+        "operator": "\u039f\u0391\u03a3\u0391",
+        "sidewalk": "both",
+        "surface": "asphalt",
+        "width": "4"
+      }
+    },
+    {
+      "type": "way",
+      "id": 799249449,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "2",
+        "lit": "yes",
+        "maxheight": "5",
+        "maxspeed": "20",
+        "motor_vehicle": "no",
+        "name": "One Ayala Busway",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "concrete",
+        "width": "6"
+      }
+    },
+    {
+      "type": "way",
+      "id": 808141435,
+      "tags": {
+        "embedded_rails": "tram",
+        "highway": "busway",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Europaboulevard",
+        "taxi": "no",
+        "width": "5.25"
+      }
+    },
+    {
+      "type": "way",
+      "id": 808141436,
+      "tags": {
+        "bridge": "yes",
+        "embedded_rails": "tram",
+        "highway": "busway",
+        "lanes": "2",
+        "layer": "1",
+        "maxspeed": "50",
+        "name": "Europaboulevard",
+        "taxi": "no",
+        "width": "5.25"
+      }
+    },
+    {
+      "type": "way",
+      "id": 814430572,
+      "tags": {
+        "highway": "busway",
+        "lanes": "1",
+        "oneway": "yes",
+        "width": "3.3"
+      }
+    },
+    {
+      "type": "way",
+      "id": 853615047,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 867020782,
+      "tags": {
+        "highway": "busway",
+        "oneway": "yes",
+        "surface": "concrete",
+        "width": "3"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880088295,
+      "tags": {
+        "access": "no",
+        "covered": "yes",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880088296,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880088297,
+      "tags": {
+        "covered": "yes",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tunnel": "building_passage",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880088298,
+      "tags": {
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880088299,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880088300,
+      "tags": {
+        "bridge": "yes",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880088301,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880088302,
+      "tags": {
+        "access": "no",
+        "covered": "yes",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tunnel": "building_passage",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880088303,
+      "tags": {
+        "access": "no",
+        "bridge": "viaduct",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "layer": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880088311,
+      "tags": {
+        "access": "no",
+        "covered": "yes",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880088312,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880088313,
+      "tags": {
+        "access": "no",
+        "covered": "yes",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880088314,
+      "tags": {
+        "access": "no",
+        "bridge": "viaduct",
+        "bridge:name": "Timog/Kamuning Flyover",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880088315,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880088316,
+      "tags": {
+        "access": "no",
+        "bridge": "viaduct",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880088317,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880088318,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880088319,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880088320,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "layer": "-1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tunnel": "yes",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880088327,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880088328,
+      "tags": {
+        "access": "no",
+        "covered": "yes",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880088329,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880088330,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880088331,
+      "tags": {
+        "access": "no",
+        "covered": "yes",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880088332,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880088333,
+      "tags": {
+        "access": "no",
+        "bridge": "viaduct",
+        "bridge:name": "Ortigas Flyover",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "layer": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880088334,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880088344,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880088347,
+      "tags": {
+        "access": "no",
+        "covered": "yes",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tunnel": "building_passage",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880088348,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880088349,
+      "tags": {
+        "access": "no",
+        "bridge": "viaduct",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880088351,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "layer": "-1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tunnel": "yes",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880088352,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880103096,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880103097,
+      "tags": {
+        "access": "no",
+        "covered": "yes",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tunnel": "building_passage",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880103098,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880103099,
+      "tags": {
+        "bridge": "yes",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880103100,
+      "tags": {
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880103101,
+      "tags": {
+        "bridge": "yes",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880103102,
+      "tags": {
+        "covered": "yes",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880103103,
+      "tags": {
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880103104,
+      "tags": {
+        "access": "no",
+        "bridge": "viaduct",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880110017,
+      "tags": {
+        "access": "no",
+        "covered": "yes",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880110018,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880110019,
+      "tags": {
+        "access": "no",
+        "bridge": "viaduct",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "layer": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880110020,
+      "tags": {
+        "access": "no",
+        "bridge": "viaduct",
+        "bridge:name": "Timog/Kamuning Flyover",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880110021,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880110022,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880110023,
+      "tags": {
+        "access": "no",
+        "covered": "yes",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880111403,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880111404,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "layer": "-1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tunnel": "yes",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880113326,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880115699,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880115700,
+      "tags": {
+        "access": "no",
+        "bridge": "viaduct",
+        "bridge:name": "Santolan Flyover",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880123604,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880123605,
+      "tags": {
+        "access": "no",
+        "covered": "yes",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tunnel": "building_passage",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880129457,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880129458,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "layer": "-1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tunnel": "yes",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880129459,
+      "tags": {
+        "access": "no",
+        "covered": "yes",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880129460,
+      "tags": {
+        "access": "no",
+        "bridge": "viaduct",
+        "bridge:name": "Ortigas Flyover",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "layer": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880129462,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880129463,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880140117,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880140118,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880140121,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880140122,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880140125,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880140126,
+      "tags": {
+        "access": "no",
+        "bridge": "viaduct",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880140127,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880140128,
+      "tags": {
+        "access": "no",
+        "covered": "yes",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tunnel": "building_passage",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 880140130,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 883768296,
+      "tags": {
+        "access": "no",
+        "highway": "busway",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "psv": "designated",
+        "width": "2.75"
+      }
+    },
+    {
+      "type": "way",
+      "id": 886272354,
+      "tags": {
+        "access": "no",
+        "emergency": "designated",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "2",
+        "maxspeed": "30",
+        "oneway": "yes",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "width": "6"
+      }
+    },
+    {
+      "type": "way",
+      "id": 886272356,
+      "tags": {
+        "access": "no",
+        "emergency": "designated",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "2",
+        "maxspeed": "30",
+        "oneway": "yes",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "width": "6"
+      }
+    },
+    {
+      "type": "way",
+      "id": 886424213,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 891804674,
+      "tags": {
+        "bridge": "yes",
+        "foot": "yes",
+        "highway": "busway",
+        "lanes": "2",
+        "layer": "1",
+        "maxspeed": "50",
+        "name": "Johan van Hasseltweg",
+        "name:etymology:wikidata": "Q2651698",
+        "oneway": "yes",
+        "sidewalk": "right",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "taxi": "no",
+        "width": "5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 891804675,
+      "tags": {
+        "bridge": "yes",
+        "foot": "yes",
+        "highway": "busway",
+        "lanes": "2",
+        "layer": "1",
+        "maxspeed": "50",
+        "name": "Johan van Hasseltweg",
+        "name:etymology:wikidata": "Q2651698",
+        "oneway": "yes",
+        "sidewalk": "right",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "taxi": "no",
+        "width": "5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 892757881,
+      "tags": {
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 892757882,
+      "tags": {
+        "bridge": "yes",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 894899232,
+      "tags": {
+        "highway": "busway",
+        "lane_markings": "no",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Centrum West",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "width": "7.5",
+        "zone:traffic": "NL:urban"
+      }
+    },
+    {
+      "type": "way",
+      "id": 894899233,
+      "tags": {
+        "highway": "busway",
+        "lane_markings": "no",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Centrum West",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "width": "10",
+        "zone:traffic": "NL:urban"
+      }
+    },
+    {
+      "type": "way",
+      "id": 907594169,
+      "tags": {
+        "highway": "busway",
+        "lanes": "2",
+        "name": "QCityBus Lane",
+        "oneway": "yes",
+        "width": "6"
+      }
+    },
+    {
+      "type": "way",
+      "id": 909957672,
+      "tags": {
+        "access": "no",
+        "bridge": "viaduct",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 909957673,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 909957674,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 909967550,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 909970047,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 909977240,
+      "tags": {
+        "access": "no",
+        "covered": "yes",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tunnel": "building_passage",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 909982301,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 909982302,
+      "tags": {
+        "access": "no",
+        "covered": "yes",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tunnel": "building_passage",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 910339871,
+      "tags": {
+        "highway": "busway",
+        "lanes": "2",
+        "name": "QCityBus Lane",
+        "oneway": "yes",
+        "width": "6"
+      }
+    },
+    {
+      "type": "way",
+      "id": 912972738,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 912972739,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 913682393,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 913682394,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 913682395,
+      "tags": {
+        "access": "no",
+        "bridge": "yes",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "foot": "no",
+        "highway": "busway",
+        "lanes": "1",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 913682396,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 914977495,
+      "tags": {
+        "access": "no",
+        "covered": "yes",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tunnel": "building_passage",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 914977496,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 914979112,
+      "tags": {
+        "access": "no",
+        "bridge": "viaduct",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 914979113,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 919604326,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 931457629,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 931735309,
+      "tags": {
+        "bicycle": "yes",
+        "bus": "designated",
+        "cycleway": "no",
+        "highway": "busway",
+        "lanes": "1",
+        "motor_vehicle": "no",
+        "name": "Boulevard Ayrault",
+        "name:etymology:wikidata": "Q3425778",
+        "oneway": "yes",
+        "sidewalk": "separate",
+        "surface": "asphalt",
+        "width": "3"
+      }
+    },
+    {
+      "type": "way",
+      "id": 935712366,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "layer": "-1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tunnel": "yes",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 935712367,
+      "tags": {
+        "access": "no",
+        "covered": "yes",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "layer": "-1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tunnel": "yes",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 935712368,
+      "tags": {
+        "access": "no",
+        "covered": "yes",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "layer": "-1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tunnel": "yes",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 935712369,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "layer": "-1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tunnel": "yes",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 951794509,
+      "tags": {
+        "embedded_rails": "tram",
+        "highway": "busway",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Hartveldseweg",
+        "oneway": "yes",
+        "width": "2.5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 951794510,
+      "tags": {
+        "embedded_rails": "tram",
+        "highway": "busway",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Hartveldseweg",
+        "oneway": "yes",
+        "width": "2.5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 951795909,
+      "tags": {
+        "embedded_rails": "tram",
+        "highway": "busway",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Hartveldseweg",
+        "oneway": "yes",
+        "width": "2.5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 962288130,
+      "tags": {
+        "embedded_rails": "tram",
+        "highway": "busway",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Muiderstraatweg",
+        "oneway": "yes",
+        "width": "2.5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 962288131,
+      "tags": {
+        "embedded_rails": "tram",
+        "highway": "busway",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Muiderstraatweg",
+        "oneway": "yes",
+        "width": "2.5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 972416189,
+      "tags": {
+        "access": "no",
+        "bus": "designated",
+        "highway": "busway",
+        "oneway": "yes",
+        "width": "6"
+      }
+    },
+    {
+      "type": "way",
+      "id": 975020178,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 975020179,
+      "tags": {
+        "access": "no",
+        "covered": "yes",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tunnel": "building_passage",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 976356485,
+      "tags": {
+        "embedded_rails": "tram",
+        "highway": "busway",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Europaboulevard",
+        "taxi": "no",
+        "width": "5.25"
+      }
+    },
+    {
+      "type": "way",
+      "id": 978920704,
+      "tags": {
+        "access": "no",
+        "bus": "yes",
+        "highway": "busway",
+        "lanes": "1",
+        "maxspeed": "40",
+        "motor_vehicle": "no",
+        "name": "Ulvenveien",
+        "oneway": "yes",
+        "operator": "Oslo kommune",
+        "surface": "asphalt",
+        "unsigned_ref": "17988",
+        "width": "5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 978920707,
+      "tags": {
+        "access": "no",
+        "bus": "yes",
+        "highway": "busway",
+        "lanes": "1",
+        "maxspeed": "40",
+        "motor_vehicle": "no",
+        "name": "Ulvenveien",
+        "oneway": "yes",
+        "operator": "Oslo kommune",
+        "surface": "asphalt",
+        "unsigned_ref": "17988",
+        "width": "5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 980101910,
+      "tags": {
+        "access": "no",
+        "bus": "yes",
+        "highway": "busway",
+        "lanes": "2",
+        "maxspeed": "40",
+        "motor_vehicle": "no",
+        "name": "Ulvenveien",
+        "oneway": "no",
+        "operator": "Oslo kommune",
+        "surface": "asphalt",
+        "unsigned_ref": "17988",
+        "width": "8"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1007386502,
+      "tags": {
+        "bridge": "yes",
+        "embedded_rails": "tram",
+        "highway": "busway",
+        "lanes": "2",
+        "layer": "1",
+        "maxspeed": "50",
+        "name": "Middenweg",
+        "width": "5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1019034299,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1033810154,
+      "tags": {
+        "highway": "busway",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "width": "3"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1050179355,
+      "tags": {
+        "access": "no",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "indoor": "yes",
+        "lanes": "2",
+        "lit": "yes",
+        "maxheight": "5",
+        "maxspeed": "20",
+        "motor_vehicle": "no",
+        "name": "One Ayala Busway",
+        "oneway": "yes",
+        "surface": "concrete",
+        "tunnel": "building_passage",
+        "width": "6"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1050179357,
+      "tags": {
+        "access": "no",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxheight": "5",
+        "maxspeed": "20",
+        "motor_vehicle": "no",
+        "name": "One Ayala Busway",
+        "oneway": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt",
+        "width": "4"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1050179359,
+      "tags": {
+        "access": "no",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxheight": "5",
+        "motor_vehicle": "no",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "smoothness": "intermediate",
+        "surface": "asphalt",
+        "width": "4"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1062536337,
+      "tags": {
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Hoofdgracht",
+        "oneway": "yes",
+        "operator": "Provincie Noord-Holland",
+        "width": "2.5",
+        "zone:traffic": "NL:urban"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1064936089,
+      "tags": {
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Hoofdgracht",
+        "oneway": "yes",
+        "operator": "Provincie Noord-Holland",
+        "width": "3.25",
+        "zone:traffic": "NL:urban"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1064936090,
+      "tags": {
+        "foot": "yes",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Kanaalweg",
+        "oneway": "yes",
+        "sidewalk": "right",
+        "width": "3.25",
+        "zone:traffic": "NL:urban"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1070347554,
+      "tags": {
+        "bus": "yes",
+        "covered": "no",
+        "cycleway:both": "no",
+        "highway": "busway",
+        "lane_markings": "no",
+        "lit": "yes",
+        "noname": "yes",
+        "oneway": "yes",
+        "parking:both": "no",
+        "smoothness": "excellent",
+        "surface": "concrete",
+        "traffic_sign": "DE:250",
+        "vehicle": "no",
+        "width": "17"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1070347555,
+      "tags": {
+        "bus": "yes",
+        "covered": "no",
+        "cycleway:both": "no",
+        "highway": "busway",
+        "lane_markings": "no",
+        "lit": "yes",
+        "noname": "yes",
+        "oneway": "yes",
+        "parking:both": "no",
+        "smoothness": "excellent",
+        "surface": "concrete",
+        "traffic_sign": "DE:250",
+        "vehicle": "no",
+        "width": "17"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1070347556,
+      "tags": {
+        "bus": "yes",
+        "covered": "no",
+        "cycleway:both": "no",
+        "highway": "busway",
+        "lane_markings": "no",
+        "lit": "yes",
+        "noname": "yes",
+        "oneway": "yes",
+        "parking:both": "no",
+        "smoothness": "excellent",
+        "surface": "concrete",
+        "traffic_sign": "DE:250",
+        "vehicle": "no",
+        "width": "17"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1070347557,
+      "tags": {
+        "bus": "yes",
+        "covered": "no",
+        "cycleway:both": "no",
+        "highway": "busway",
+        "lane_markings": "no",
+        "lit": "yes",
+        "noname": "yes",
+        "oneway": "yes",
+        "parking:both": "no",
+        "smoothness": "excellent",
+        "surface": "concrete",
+        "traffic_sign": "DE:250",
+        "vehicle": "no",
+        "width": "17"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1076003512,
+      "tags": {
+        "bus": "yes",
+        "covered": "no",
+        "cycleway:both": "no",
+        "highway": "busway",
+        "lane_markings": "no",
+        "lit": "yes",
+        "maxheight:signed": "no",
+        "noname": "yes",
+        "oneway": "yes",
+        "parking:both": "no",
+        "smoothness": "excellent",
+        "surface": "concrete",
+        "traffic_sign": "DE:250",
+        "vehicle": "no",
+        "width": "17"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1076003513,
+      "tags": {
+        "bus": "yes",
+        "covered": "no",
+        "cycleway:both": "no",
+        "highway": "busway",
+        "lane_markings": "no",
+        "lit": "yes",
+        "noname": "yes",
+        "oneway": "yes",
+        "parking:both": "no",
+        "sidewalk": "right",
+        "smoothness": "excellent",
+        "surface": "concrete",
+        "traffic_sign": "DE:250",
+        "vehicle": "no",
+        "width": "17"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1076003514,
+      "tags": {
+        "bus": "yes",
+        "covered": "no",
+        "cycleway:both": "no",
+        "highway": "busway",
+        "lane_markings": "no",
+        "lit": "yes",
+        "maxheight:signed": "no",
+        "noname": "yes",
+        "oneway": "yes",
+        "parking:both": "no",
+        "sidewalk": "right",
+        "smoothness": "excellent",
+        "surface": "concrete",
+        "traffic_sign": "DE:250",
+        "vehicle": "no",
+        "width": "17"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1076003515,
+      "tags": {
+        "bus": "yes",
+        "covered": "no",
+        "cycleway:both": "no",
+        "highway": "busway",
+        "lane_markings": "no",
+        "lit": "yes",
+        "maxheight:signed": "no",
+        "noname": "yes",
+        "oneway": "yes",
+        "parking:both": "no",
+        "smoothness": "excellent",
+        "surface": "concrete",
+        "traffic_sign": "DE:250",
+        "vehicle": "no",
+        "width": "17"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1076616351,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "indoor": "yes",
+        "lanes": "2",
+        "lit": "yes",
+        "maxheight": "5",
+        "maxspeed": "20",
+        "motor_vehicle": "no",
+        "name": "One Ayala Busway",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "concrete",
+        "tunnel": "building_passage",
+        "width": "6"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1078065128,
+      "tags": {
+        "access": "no",
+        "bridge": "viaduct",
+        "bridge:name": "Timog/Kamuning Flyover",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "layer": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1078065129,
+      "tags": {
+        "access": "no",
+        "bridge": "viaduct",
+        "bridge:name": "Timog/Kamuning Flyover",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1078065130,
+      "tags": {
+        "access": "no",
+        "bridge": "viaduct",
+        "bridge:name": "Timog/Kamuning Flyover",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1078065131,
+      "tags": {
+        "access": "no",
+        "bridge": "viaduct",
+        "bridge:name": "Timog/Kamuning Flyover",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "layer": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1078297350,
+      "tags": {
+        "access": "no",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "2",
+        "lit": "yes",
+        "maxheight": "5",
+        "maxspeed": "20",
+        "motor_vehicle": "no",
+        "name": "One Ayala Busway",
+        "oneway": "yes",
+        "surface": "concrete",
+        "width": "6"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1079480139,
+      "tags": {
+        "embedded_rails": "tram",
+        "highway": "busway",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Middenweg",
+        "width": "5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1079480140,
+      "tags": {
+        "bridge": "yes",
+        "embedded_rails": "tram",
+        "highway": "busway",
+        "lanes": "2",
+        "layer": "1",
+        "maxspeed": "50",
+        "name": "Middenweg",
+        "width": "5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1081684537,
+      "tags": {
+        "bridge": "yes",
+        "embedded_rails": "tram",
+        "highway": "busway",
+        "lanes": "2",
+        "layer": "1",
+        "maxspeed": "50",
+        "name": "Middenweg",
+        "width": "5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1081684538,
+      "tags": {
+        "embedded_rails": "tram",
+        "highway": "busway",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Middenweg",
+        "width": "5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1086553755,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1100640597,
+      "tags": {
+        "highway": "busway",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Carolina MacGillavrylaan",
+        "surface": "concrete",
+        "taxi": "yes",
+        "width": "5.5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117016716,
+      "tags": {
+        "access": "no",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "indoor": "yes",
+        "lanes": "1",
+        "lit": "yes",
+        "maxheight": "5",
+        "maxspeed": "20",
+        "motor_vehicle": "no",
+        "name": "One Ayala Busway",
+        "oneway": "yes",
+        "surface": "concrete",
+        "tunnel": "building_passage",
+        "width": "3"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117016728,
+      "tags": {
+        "access": "no",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "indoor": "yes",
+        "lanes": "2",
+        "lit": "yes",
+        "maxheight": "5",
+        "maxspeed": "20",
+        "oneway": "yes",
+        "surface": "concrete",
+        "tunnel": "building_passage",
+        "width": "6"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117016731,
+      "tags": {
+        "access": "no",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "indoor": "yes",
+        "lanes": "2",
+        "lit": "yes",
+        "maxheight": "5",
+        "maxspeed": "20",
+        "motor_vehicle": "no",
+        "name": "One Ayala Busway",
+        "oneway": "yes",
+        "surface": "concrete",
+        "tunnel": "building_passage",
+        "width": "6"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117016732,
+      "tags": {
+        "access": "no",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "indoor": "yes",
+        "lanes": "2",
+        "lit": "yes",
+        "maxheight": "5",
+        "maxspeed": "20",
+        "motor_vehicle": "no",
+        "name": "One Ayala Busway",
+        "oneway": "yes",
+        "surface": "concrete",
+        "tunnel": "building_passage",
+        "width": "6"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117016733,
+      "tags": {
+        "access": "no",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "2",
+        "lit": "yes",
+        "maxheight": "5",
+        "maxspeed": "20",
+        "motor_vehicle": "no",
+        "name": "One Ayala Busway",
+        "oneway": "yes",
+        "surface": "concrete",
+        "width": "6"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117016734,
+      "tags": {
+        "access": "no",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "indoor": "yes",
+        "lanes": "1",
+        "lit": "yes",
+        "maxheight": "5",
+        "maxspeed": "20",
+        "motor_vehicle": "no",
+        "name": "One Ayala Busway",
+        "oneway": "yes",
+        "surface": "concrete",
+        "tunnel": "building_passage",
+        "width": "3"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117016735,
+      "tags": {
+        "access": "no",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "indoor": "yes",
+        "lanes": "1",
+        "lit": "yes",
+        "maxheight": "5",
+        "maxspeed": "20",
+        "motor_vehicle": "no",
+        "name": "One Ayala Busway",
+        "oneway": "yes",
+        "surface": "concrete",
+        "tunnel": "building_passage",
+        "width": "3"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117016736,
+      "tags": {
+        "access": "no",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "indoor": "yes",
+        "lanes": "2",
+        "lit": "yes",
+        "maxheight": "5",
+        "maxspeed": "20",
+        "motor_vehicle": "no",
+        "name": "One Ayala Busway",
+        "oneway": "yes",
+        "surface": "concrete",
+        "tunnel": "building_passage",
+        "width": "6"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117016737,
+      "tags": {
+        "access": "no",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "indoor": "yes",
+        "lanes": "1",
+        "lit": "yes",
+        "maxheight": "5",
+        "maxspeed": "20",
+        "motor_vehicle": "no",
+        "name": "One Ayala Busway",
+        "oneway": "yes",
+        "smoothness": "intermediate",
+        "surface": "concrete",
+        "tunnel": "building_passage",
+        "width": "3"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117016738,
+      "tags": {
+        "access": "no",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "indoor": "yes",
+        "lanes": "2",
+        "lit": "yes",
+        "maxheight": "5",
+        "maxspeed": "20",
+        "motor_vehicle": "no",
+        "name": "One Ayala Busway",
+        "oneway": "yes",
+        "surface": "concrete",
+        "tunnel": "building_passage",
+        "width": "6"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1122597623,
+      "tags": {
+        "highway": "busway",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Kromwijkdreef",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "left|right",
+        "width": "11"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1122597624,
+      "tags": {
+        "highway": "busway",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Kromwijkdreef",
+        "oneway": "yes",
+        "width": "3"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1122615808,
+      "tags": {
+        "highway": "busway",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Kromwijkdreef",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "width": "2.5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1122615811,
+      "tags": {
+        "highway": "busway",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Kromwijkdreef",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "4"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1122615815,
+      "tags": {
+        "highway": "busway",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Kromwijkdreef",
+        "oneway": "yes",
+        "sidewalk": "right",
+        "surface": "asphalt",
+        "width": "5.25"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1128064368,
+      "tags": {
+        "bicycle": "use_sidepath",
+        "description": "Busbaan",
+        "highway": "busway",
+        "lanes": "2",
+        "maxspeed": "30",
+        "width": "5.5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1128064369,
+      "tags": {
+        "bicycle": "use_sidepath",
+        "description": "Busbaan",
+        "highway": "busway",
+        "lanes": "2",
+        "maxspeed": "30",
+        "width": "6"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1175162609,
+      "tags": {
+        "bicycle": "use_sidepath",
+        "cycleway:both": "separate",
+        "foot": "use_sidepath",
+        "highway": "busway",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed:type": "DE:urban",
+        "motor_vehicle": "no",
+        "name": "Kesselsdorfer Stra\u00dfe",
+        "old_ref": "K 6275",
+        "parking:lane:both": "no",
+        "psv": "designated",
+        "sidewalk": "separate",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "width": "7",
+        "wikidata": "Q1739813"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1175162610,
+      "tags": {
+        "bicycle": "use_sidepath",
+        "cycleway:both": "separate",
+        "foot": "use_sidepath",
+        "highway": "busway",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed:type": "DE:urban",
+        "motor_vehicle": "no",
+        "name": "Kesselsdorfer Stra\u00dfe",
+        "old_ref": "K 6275",
+        "parking:lane:both": "no",
+        "psv": "designated",
+        "sidewalk": "separate",
+        "smoothness": "excellent",
+        "source:width": "ARCore",
+        "surface": "asphalt",
+        "width": "7",
+        "wikidata": "Q1739813"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1185280890,
+      "tags": {
+        "covered": "no",
+        "highway": "busway",
+        "lane_markings": "no",
+        "lit": "yes",
+        "maxspeed:type": "BE:urban",
+        "name": "Rue du P\u00e9laki",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "width": "4"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1217516782,
+      "tags": {
+        "foot": "yes",
+        "highway": "busway",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Johan van Hasseltweg",
+        "oneway": "yes",
+        "sidewalk": "right",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "taxi": "no",
+        "width": "3.25"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1217522740,
+      "tags": {
+        "bridge": "yes",
+        "foot": "yes",
+        "highway": "busway",
+        "lanes": "2",
+        "layer": "1",
+        "maxspeed": "50",
+        "name": "Johan van Hasseltweg",
+        "name:etymology:wikidata": "Q2651698",
+        "oneway": "yes",
+        "sidewalk": "right",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "taxi": "no",
+        "width": "5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1223043300,
+      "tags": {
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Waddenweg",
+        "oneway": "yes",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "width": "3"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234194223,
+      "tags": {
+        "covered": "yes",
+        "highway": "busway",
+        "lanes": "2",
+        "oneway": "yes",
+        "width": "8"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234194226,
+      "tags": {
+        "highway": "busway",
+        "lanes": "2",
+        "oneway": "yes",
+        "width": "8"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1236961675,
+      "tags": {
+        "access": "no",
+        "bus": "designated",
+        "highway": "busway",
+        "lanes": "1",
+        "motor_vehicle": "no",
+        "name": "Jalan Galunggung",
+        "oneway": "yes",
+        "operator": "Transjakarta",
+        "psv": "yes",
+        "smoothness": "good",
+        "source": "HOT_InAWARESurvey_2017",
+        "surface": "concrete",
+        "width": "4"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1236966068,
+      "tags": {
+        "access": "no",
+        "bus": "designated",
+        "highway": "busway",
+        "lanes": "1",
+        "motor_vehicle": "no",
+        "name": "Jalan Galunggung",
+        "oneway": "yes",
+        "operator": "Transjakarta",
+        "psv": "yes",
+        "smoothness": "good",
+        "source": "HOT_InAWARESurvey_2017",
+        "surface": "concrete",
+        "width": "4"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1240864113,
+      "tags": {
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Europaboulevard",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "taxi": "no",
+        "width": "2.75"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1276265228,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1276265230,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1276265232,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1276265234,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1276265238,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1276265242,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1276265246,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1276265250,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1303475925,
+      "tags": {
+        "highway": "busway",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Julianaplein",
+        "taxi": "no",
+        "width": "7"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1303475926,
+      "tags": {
+        "highway": "busway",
+        "incline": "up",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Julianaplein",
+        "taxi": "no",
+        "width": "7"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1304689122,
+      "tags": {
+        "highway": "busway",
+        "lanes": "2",
+        "oneway": "yes",
+        "width": "8"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1307707418,
+      "tags": {
+        "highway": "busway",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "concrete",
+        "width": "3"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1327096346,
+      "tags": {
+        "highway": "busway",
+        "lane_markings": "no",
+        "noname": "yes",
+        "surface": "concrete",
+        "width": "12"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1327096348,
+      "tags": {
+        "highway": "busway",
+        "lane_markings": "no",
+        "noname": "yes",
+        "surface": "concrete",
+        "width": "12.3"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1327955606,
+      "tags": {
+        "highway": "busway",
+        "lane_markings": "no",
+        "noname": "yes",
+        "surface": "concrete",
+        "width": "12.5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1327955607,
+      "tags": {
+        "highway": "busway",
+        "lane_markings": "no",
+        "noname": "yes",
+        "surface": "concrete",
+        "width": "12"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1327955608,
+      "tags": {
+        "highway": "busway",
+        "lane_markings": "no",
+        "noname": "yes",
+        "surface": "concrete",
+        "width": "12"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1327955609,
+      "tags": {
+        "highway": "busway",
+        "lane_markings": "no",
+        "noname": "yes",
+        "surface": "concrete",
+        "width": "12"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1328436902,
+      "tags": {
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "noname": "yes",
+        "oneway": "yes",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "taxi": "yes",
+        "width": "4",
+        "zone:traffic": "NL:urban"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1332094966,
+      "tags": {
+        "highway": "busway",
+        "lanes": "1",
+        "width": "2.5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1335045823,
+      "tags": {
+        "highway": "busway",
+        "lanes": "2",
+        "name": "QCityBus Lane",
+        "oneway": "yes",
+        "width": "6"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1341391769,
+      "tags": {
+        "highway": "busway",
+        "lane_markings": "no",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Centrum West",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "width": "16",
+        "zone:traffic": "NL:urban"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1341391770,
+      "tags": {
+        "highway": "busway",
+        "lane_markings": "no",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Centrum West",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "width": "16",
+        "zone:traffic": "NL:urban"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1341391771,
+      "tags": {
+        "highway": "busway",
+        "lane_markings": "no",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Centrum West",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "width": "16",
+        "zone:traffic": "NL:urban"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1342835888,
+      "tags": {
+        "embedded_rails": "tram",
+        "highway": "busway",
+        "lane_markings": "no",
+        "name": "Matterstockstra\u00dfe",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "width": "3"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1343298473,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1343298474,
+      "tags": {
+        "access": "no",
+        "covered": "yes",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tunnel": "building_passage",
+        "turn:lanes": "through",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1343298475,
+      "tags": {
+        "access": "no",
+        "covered": "yes",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tunnel": "building_passage",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1343298476,
+      "tags": {
+        "access": "no",
+        "destination:lanes": "Buses Only",
+        "fine:not:bus": "5,000 PHP",
+        "highway": "busway",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "EDSA Busway",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "width": "3",
+        "wikipedia": "en:EDSA Carousel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1346581591,
+      "tags": {
+        "embedded_rails": "tram",
+        "highway": "busway",
+        "lane_markings": "no",
+        "name": "Br\u00fccknerstra\u00dfe",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "width": "3"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1347177250,
+      "tags": {
+        "highway": "busway",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Kromwijkdreef",
+        "oneway": "yes",
+        "sidewalk": "left",
+        "surface": "asphalt",
+        "width": "4"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1347177251,
+      "tags": {
+        "highway": "busway",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Kromwijkdreef",
+        "oneway": "yes",
+        "sidewalk": "left",
+        "surface": "asphalt",
+        "width": "4"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1352784170,
+      "tags": {
+        "highway": "busway",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Kromwijkdreef",
+        "oneway": "yes",
+        "sidewalk": "right",
+        "width": "3"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1352784171,
+      "tags": {
+        "highway": "busway",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Kromwijkdreef",
+        "oneway": "yes",
+        "sidewalk": "right",
+        "width": "3"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1352784172,
+      "tags": {
+        "highway": "busway",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Kromwijkdreef",
+        "oneway": "yes",
+        "sidewalk": "right",
+        "width": "3"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1352784173,
+      "tags": {
+        "highway": "busway",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Kromwijkdreef",
+        "oneway": "yes",
+        "sidewalk": "right",
+        "width": "3"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1355381904,
+      "tags": {
+        "access": "no",
+        "highway": "busway",
+        "lane_markings": "no",
+        "lit": "yes",
+        "maxspeed": "RU:urban",
+        "motor_vehicle": "yes",
+        "name": "\u0443\u043b\u0438\u0446\u0430 \u041f\u0443\u0448\u043a\u0438\u043d\u0430",
+        "name:etymology:wikidata": "Q7200",
+        "oneway": "yes",
+        "psv": "yes",
+        "surface": "asphalt",
+        "width": "5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1355495763,
+      "tags": {
+        "access": "no",
+        "highway": "busway",
+        "lane_markings": "no",
+        "lit": "yes",
+        "maxspeed": "RU:urban",
+        "motor_vehicle": "yes",
+        "name": "\u0443\u043b\u0438\u0446\u0430 \u041f\u0443\u0448\u043a\u0438\u043d\u0430",
+        "name:etymology:wikidata": "Q7200",
+        "oneway": "yes",
+        "psv": "yes",
+        "surface": "asphalt",
+        "width": "5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1355495764,
+      "tags": {
+        "access": "no",
+        "highway": "busway",
+        "lane_markings": "no",
+        "lit": "yes",
+        "maxspeed": "RU:urban",
+        "motor_vehicle": "yes",
+        "name": "\u0443\u043b\u0438\u0446\u0430 \u041f\u0443\u0448\u043a\u0438\u043d\u0430",
+        "name:etymology:wikidata": "Q7200",
+        "oneway": "yes",
+        "psv": "yes",
+        "surface": "asphalt",
+        "width": "5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1358635342,
+      "tags": {
+        "covered": "yes",
+        "highway": "busway",
+        "lanes": "2",
+        "oneway": "yes",
+        "width": "8"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1358635343,
+      "tags": {
+        "highway": "busway",
+        "lanes": "2",
+        "oneway": "yes",
+        "width": "8"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1361710782,
+      "tags": {
+        "embedded_rails": "tram",
+        "highway": "busway",
+        "lane_markings": "no",
+        "name": "Petrinistra\u00dfe",
+        "oneway": "yes",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "width": "3"
+      }
+    }
+  ]
+}
