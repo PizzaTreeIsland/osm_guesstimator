@@ -60,7 +60,8 @@ Any other highway tag value, including missing highway tags, will result in an e
 # statistics
 The value estimation is based on existing data on osm. The following graph shows the width distribution of highway objects with (parseable) width data, by highway type and lane count. The lane coun was differenciated into values between 1 and 8 and anything else, where anything else includes missing lane number info as well as any values other than numbers between 1 and 8. 
 
-![[Width distribution by highway type.png]]
+![Width distribution by highway type](https://github.com/user-attachments/assets/a8b2d127-6039-4647-b45a-e78542a39481)
+
 Sorting any lane values that are not numbers between 1 and 8 as unspecified excludes both highways with lane numbers higher than 8 and highways with lane numbers in non standard notation. However, this is deemed good enough, as 99.94% of lane values are accounted for. 
 
 For each combination of highway type and lane count, including unspecified, a median width is determined that is applied to highways that don't have a (parseable) width value themselves as a best guess. 
@@ -68,7 +69,7 @@ For each combination of highway type and lane count, including unspecified, a me
 A third dimension to differenciate highway width in, aside from highway type and lane count, is the subtype, especially in highway=service features. The following graph shows the service road width distribution by service road type. 
 However, this consideration in the width estimation is not yet implemented. 
 
-![[Service Road width distribution by type.png]]
+![Service Road width distribution by type](https://github.com/user-attachments/assets/a7e1f14b-c40a-4461-9a5d-323d5547d23f)
 
 # contribute
 For feature requests or bugfixes, github issues or pull requests are always welcome. 
@@ -78,6 +79,7 @@ You can also have a look at the [proposals](#proposals) section to find projects
 Finally, you can [go out and map](https://www.openstreetmap.org)! I will regularly download the newest osm data and update the median values accordingly. Therefore, measuring and mapping the world around you or fixing typos and other non standard tagging in the data set will increase the accuracy of the estimations. 
 
 ‼️ DO NOT USE THIS TOOL TO INPUT DATA INTO OSM ‼️
+
 The estimation functions only produces rough estimates and the resulsts are therefore not reliable. They are good enough for most cases, especially when manually measuring on a large number of objects is not feasible, but it does not warrant the level of trust people have in the data on osm. 
 It would also lead to an effect where inaccuracies and biases of this method would procreate and intensify as the function would feed itself the map data created by itself. 
 
